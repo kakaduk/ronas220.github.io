@@ -47,40 +47,21 @@
   </xs:schema>
   <TransTable>
     <Org>ООО Танып</Org>
-    <IMEI>7045378162</IMEI>
-    <Name>CASE ММ3271</Name>
+    <IMEI>1000000397</IMEI>
+    <Name>JCB 9148му</Name>
+    <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>ООО Танып</Org>
+    <IMEI>1000000347</IMEI>
+    <Name>Погрузчик му2568</Name>
+    <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>ООО Танып</Org>
+    <IMEI>1000000475</IMEI>
+    <Name>КАМАЗ а812оа702</Name>
     <Icon>Truck</Icon>
-    <lat>56.11116</lat>
-    <lng>54.263761666666667</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>false</IsWork>
-    <Distance>0</Distance>
-    <TimeOfWork>0</TimeOfWork>
-    <StartTime>2020-01-24T08:26:03+05:00</StartTime>
-  </TransTable>
-  <TransTable>
-    <Org>ООО Танып</Org>
-    <IMEI>30575776</IMEI>
-    <Name>Грейдер 1054вр</Name>
-    <Icon>Tractor</Icon>
-    <lat>0</lat>
-    <lng>0</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>false</IsWork>
-    <Distance>0</Distance>
-    <TimeOfWork>0</TimeOfWork>
-  </TransTable>
-  <TransTable>
-    <Org>ООО Танып</Org>
-    <IMEI>0030550779</IMEI>
-    <Name>Грейдер 2193</Name>
-    <Icon>Tractor</Icon>
-    <lat>56.111468333333335</lat>
-    <lng>54.26526</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>false</IsWork>
-    <Distance>0</Distance>
-    <TimeOfWork>0</TimeOfWork>
   </TransTable>
   <TransTable>
     <Org>ООО Танып</Org>
@@ -89,7 +70,7 @@
     <Icon>Tractor</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -98,10 +79,10 @@
     <Org>ООО Танып</Org>
     <IMEI>1000000051</IMEI>
     <Name>КАМАЗ е675кв</Name>
-    <Icon>Tractor</Icon>
+    <Icon>Truck</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -110,24 +91,24 @@
     <Org>ООО Танып</Org>
     <IMEI>1000000046</IMEI>
     <Name>КАМАЗ н493ан</Name>
-    <Icon>Tractor</Icon>
-    <lat>56.111373333333333</lat>
-    <lng>54.260523333333332</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <Icon>Truck</Icon>
+    <lat>56.117006666666668</lat>
+    <lng>54.174815</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>true</IsWork>
-    <Distance>51.5</Distance>
-    <TimeOfWork>498</TimeOfWork>
-    <StartTime>2020-01-24T08:22:35+05:00</StartTime>
-    <StopTime>2020-01-24T16:41:05+05:00</StopTime>
+    <Distance>12.5</Distance>
+    <TimeOfWork>70</TimeOfWork>
+    <StartTime>2020-06-10T07: 54: 14+05: 00</StartTime>
+    <StopTime>2020-06-10T09: 04: 10+05: 00</StopTime>
   </TransTable>
   <TransTable>
     <Org>ООО Танып</Org>
     <IMEI>8027109731</IMEI>
     <Name>КАМАЗ н496ан</Name>
     <Icon>Tractor</Icon>
-    <lat>56.111141666666668</lat>
-    <lng>54.263826666666667</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <lat>0</lat>
+    <lng>0</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -139,7 +120,7 @@
     <Icon>Truck</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -149,23 +130,21 @@
     <IMEI>7046638432</IMEI>
     <Name>МТЗ 0513мм</Name>
     <Icon>Tractor</Icon>
-    <lat>56.111403333333335</lat>
-    <lng>54.260415</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>true</IsWork>
-    <Distance>22.9</Distance>
-    <TimeOfWork>329</TimeOfWork>
-    <StartTime>2020-01-24T11:12:27+05:00</StartTime>
-    <StopTime>2020-01-24T16:41:15+05:00</StopTime>
+    <lat>0</lat>
+    <lng>0</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
+    <IsWork>false</IsWork>
+    <Distance>0</Distance>
+    <TimeOfWork>0</TimeOfWork>
   </TransTable>
   <TransTable>
     <Org>ООО Танып</Org>
     <IMEI>1000000146</IMEI>
     <Name>МТЗ вр1040</Name>
     <Icon>Tractor</Icon>
-    <lat>56.110891666666667</lat>
-    <lng>54.266786666666668</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <lat>56.111396666666664</lat>
+    <lng>54.262915</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -175,40 +154,40 @@
     <IMEI>7046661665</IMEI>
     <Name>МТЗ вр1084</Name>
     <Icon>Tractor</Icon>
-    <lat>56.11141</lat>
-    <lng>54.260421666666666</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>true</IsWork>
-    <Distance>22.8</Distance>
-    <TimeOfWork>94</TimeOfWork>
-    <StartTime>2020-01-24T15:07:07+05:00</StartTime>
-    <StopTime>2020-01-24T16:41:10+05:00</StopTime>
+    <lat>0</lat>
+    <lng>0</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
+    <IsWork>false</IsWork>
+    <Distance>0</Distance>
+    <TimeOfWork>0</TimeOfWork>
   </TransTable>
   <TransTable>
     <Org>ООО Танып</Org>
     <IMEI>1000000141</IMEI>
     <Name>Погрузчик 7396</Name>
     <Icon>Tractor</Icon>
-    <lat>56.111293333333336</lat>
-    <lng>54.265083333333337</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <lat>56.083213333333333</lat>
+    <lng>54.249145</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>true</IsWork>
-    <Distance>9.9</Distance>
-    <TimeOfWork>31</TimeOfWork>
-    <StartTime>2020-01-24T16:15:47+05:00</StartTime>
-    <StopTime>2020-01-24T16:47:03+05:00</StopTime>
+    <Distance>5.7</Distance>
+    <TimeOfWork>64</TimeOfWork>
+    <StartTime>2020-06-10T07: 57: 20+05: 00</StartTime>
+    <StopTime>2020-06-10T09: 01: 39+05: 00</StopTime>
   </TransTable>
   <TransTable>
     <Org>ООО Танып</Org>
     <IMEI>1000000142</IMEI>
     <Name>Погрузчик 7397</Name>
     <Icon>Tractor</Icon>
-    <lat>0</lat>
-    <lng>0</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>false</IsWork>
-    <Distance>0</Distance>
-    <TimeOfWork>0</TimeOfWork>
+    <lat>56.101298333333332</lat>
+    <lng>54.27435</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
+    <IsWork>true</IsWork>
+    <Distance>4</Distance>
+    <TimeOfWork>62</TimeOfWork>
+    <StartTime>2020-06-10T08: 00: 05+05: 00</StartTime>
+    <StopTime>2020-06-10T09: 02: 34+05: 00</StopTime>
   </TransTable>
   <TransTable>
     <Org>ООО Танып</Org>
@@ -217,7 +196,7 @@
     <Icon>Tractor</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -227,50 +206,40 @@
     <IMEI>1000000385</IMEI>
     <Name>JCB 2567му</Name>
     <Icon>Truck</Icon>
-    <lat>53.42509</lat>
-    <lng>58.930278333333334</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>false</IsWork>
-    <Distance>0</Distance>
-    <TimeOfWork>0</TimeOfWork>
+    <lat>56.088578333333331</lat>
+    <lng>54.236433333333331</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
+    <IsWork>true</IsWork>
+    <Distance>7.2</Distance>
+    <TimeOfWork>103</TimeOfWork>
+    <StartTime>2020-06-10T07: 21: 09+05: 00</StartTime>
+    <StopTime>2020-06-10T09: 03: 51+05: 00</StopTime>
   </TransTable>
   <TransTable>
     <Org>ООО Танып</Org>
     <IMEI>7043350734</IMEI>
     <Name>Погрузчик 9980мо</Name>
     <Icon>Tractor</Icon>
-    <lat>56.109433333333335</lat>
-    <lng>54.264408333333336</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>true</IsWork>
-    <Distance>12</Distance>
-    <TimeOfWork>424</TimeOfWork>
-    <StartTime>2020-01-24T07:12:36+05:00</StartTime>
-    <StopTime>2020-01-24T16:07:39+05:00</StopTime>
+    <lat>56.11141</lat>
+    <lng>54.264005</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
+    <IsWork>false</IsWork>
+    <Distance>0</Distance>
+    <TimeOfWork>0</TimeOfWork>
+    <StartTime>2020-06-10T08: 09: 56+05: 00</StartTime>
   </TransTable>
   <TransTable>
     <Org>ООО Танып</Org>
     <IMEI>7045527339</IMEI>
     <Name>Погрузчик 9984мо</Name>
     <Icon>Truck</Icon>
-    <lat>0</lat>
-    <lng>0</lng>
-    <Data>24.01.2020 0:00:00</Data>
+    <lat>56.112056666666668</lat>
+    <lng>54.2635</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
-  </TransTable>
-  <TransTable>
-    <Org>ООО Танып</Org>
-    <IMEI>7042131044</IMEI>
-    <Name>Погрузчик Кировец</Name>
-    <Icon>Tractor</Icon>
-    <lat>0</lat>
-    <lng>0</lng>
-    <Data>24.01.2020 0:00:00</Data>
-    <IsWork>false</IsWork>
-    <Distance>0</Distance>
-    <TimeOfWork>0</TimeOfWork>
+    <StartTime>2020-06-10T08: 30: 41+05: 00</StartTime>
   </TransTable>
   <TransTable>
     <Org>ООО Ремжилстрой</Org>
@@ -279,7 +248,7 @@
     <Icon>Tractor</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>20.02.2019 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -291,7 +260,7 @@
     <Icon>Truck</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>20.02.2019 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -301,14 +270,12 @@
     <IMEI>7042115575</IMEI>
     <Name>Т156 5336вр</Name>
     <Icon>Tractor</Icon>
-    <lat>56.08965666666667</lat>
-    <lng>54.247121666666665</lng>
-    <Data>20.02.2019 0:00:00</Data>
-    <IsWork>true</IsWork>
-    <Distance>12.6</Distance>
-    <TimeOfWork>369</TimeOfWork>
-    <StartTime>2019-02-20T08:23:32+05:00</StartTime>
-    <StopTime>2019-02-20T14:32:40+05:00</StopTime>
+    <lat>0</lat>
+    <lng>0</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
+    <IsWork>false</IsWork>
+    <Distance>0</Distance>
+    <TimeOfWork>0</TimeOfWork>
   </TransTable>
   <TransTable>
     <Org>ООО Ремжилстрой</Org>
@@ -317,7 +284,7 @@
     <Icon>Tractor</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>20.02.2019 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -327,12 +294,14 @@
     <IMEI>7042122183</IMEI>
     <Name>МТЗ 8128уа</Name>
     <Icon>Tractor</Icon>
-    <lat>0</lat>
-    <lng>0</lng>
-    <Data>20.02.2019 0:00:00</Data>
-    <IsWork>false</IsWork>
-    <Distance>0</Distance>
-    <TimeOfWork>0</TimeOfWork>
+    <lat>56.084606666666666</lat>
+    <lng>54.26271333333333</lng>
+    <Data>10.06.2020 0: 00: 00</Data>
+    <IsWork>true</IsWork>
+    <Distance>9.7</Distance>
+    <TimeOfWork>63</TimeOfWork>
+    <StartTime>2020-06-10T07: 19: 49+05: 00</StartTime>
+    <StopTime>2020-06-10T08: 23: 09+05: 00</StopTime>
   </TransTable>
   <TransTable>
     <Org>ООО Ремжилстрой</Org>
@@ -341,7 +310,7 @@
     <Icon>Tractor</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>20.02.2019 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -353,7 +322,7 @@
     <Icon>Tractor</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>20.02.2019 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -365,7 +334,7 @@
     <Icon>Tractor</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>20.02.2019 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
@@ -377,111 +346,117 @@
     <Icon>Tractor</Icon>
     <lat>0</lat>
     <lng>0</lng>
-    <Data>20.02.2019 0:00:00</Data>
+    <Data>10.06.2020 0: 00: 00</Data>
     <IsWork>false</IsWork>
     <Distance>0</Distance>
     <TimeOfWork>0</TimeOfWork>
   </TransTable>
   <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>0030796224</IMEI>
-    <Name>ЗИЛ с542ха</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>8027292800</IMEI>
-    <Name>МТЗ му2572</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>6014203214</IMEI>
-    <Name>КАМАЗ у189нв</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>6014149656</IMEI>
-    <Name>МТЗ му2570</Name>
-    <Icon>Tractor</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000008</IMEI>
-    <Name>КАМАЗ с300ох щетка</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000040</IMEI>
-    <Name>МАЗ с080ае</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000177</IMEI>
-    <Name>Газон у972нр</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000189</IMEI>
-    <Name>КАМАЗ в754рм</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000191</IMEI>
-    <Name>ДТ 75 3296мм</Name>
-    <Icon>Tractor</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000200</IMEI>
-    <Name>Газель с003ае</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000271</IMEI>
-    <Name>ГАЗ е558вх самосвал</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000276</IMEI>
-    <Name>Грейдер 3294мм</Name>
-    <Icon>Tractor</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000320</IMEI>
-    <Name>Газель 727</Name>
-    <Icon>Truck</Icon>
-  </TransTable>
-  <TransTable>
-    <Org>ООО ГКС</Org>
-    <IMEI>1000000348</IMEI>
-    <Name>МТЗ му2571</Name>
-    <Icon>Tractor</Icon>
-  </TransTable>
-  <TransTable>
     <Org>МБУ СЧиП</Org>
     <IMEI>1000000116</IMEI>
-    <Name>Грейдер</Name>
+    <Name>Грейдер му9119</Name>
     <Icon>Tractor</Icon>
   </TransTable>
   <TransTable>
     <Org>МБУ СЧиП</Org>
     <IMEI>1000000383</IMEI>
-    <Name>Пылесос</Name>
-    <Icon>Tractor</Icon>
+    <Name>Пылесос 475хс</Name>
+    <Icon>Truck</Icon>
   </TransTable>
   <TransTable>
     <Org>МБУ СЧиП</Org>
     <IMEI>1000000403</IMEI>
     <Name>Грейдер 6457му02</Name>
     <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000122</IMEI>
+    <Name>КАМАЗ в064тт102</Name>
+    <Icon>Truck</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000463</IMEI>
+    <Name>Газель а767оа</Name>
+    <Icon>Truck</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000465</IMEI>
+    <Name>МТЗ 2405мт02</Name>
+    <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000466</IMEI>
+    <Name>МТЗ 2406мт02</Name>
+    <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000467</IMEI>
+    <Name>МТЗ 2407мт02</Name>
+    <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000485</IMEI>
+    <Name>МТЗ 0585мм02</Name>
+    <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000486</IMEI>
+    <Name>УАЗ в384рм02</Name>
+    <Icon>Truck</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000487</IMEI>
+    <Name>МТЗ 8161вк02</Name>
+    <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000488</IMEI>
+    <Name>КАМАЗ а602ок702</Name>
+    <Icon>Truck</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000489</IMEI>
+    <Name>ГАЗ в479ве</Name>
+    <Icon>Truck</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000490</IMEI>
+    <Name>УАЗ с058со</Name>
+    <Icon>Truck</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000491</IMEI>
+    <Name>ЗИЛ в682та</Name>
+    <Icon>Truck</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000492</IMEI>
+    <Name>JCB 3281мм</Name>
+    <Icon>Tractor</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000382</IMEI>
+    <Name>КАМАЗ а885ха702</Name>
+    <Icon>Truck</Icon>
+  </TransTable>
+  <TransTable>
+    <Org>МБУ СЧиП</Org>
+    <IMEI>1000000504</IMEI>
+    <Name>КАМАЗ е429ар702</Name>
+    <Icon>Truck</Icon>
   </TransTable>
 </NewDataSet>
